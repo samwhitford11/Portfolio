@@ -1,6 +1,6 @@
 import React from 'react'
-import RTB from '../assets/RTB IMg.jpg';
-import SChed from '../assets/SChed Img.png';
+import RTB from '../assets/RTB-Img.jpg';
+import SChed from '../assets/SChed-Img.png';
 import EventHooks from '../assets/Events-Hooks-Img.png';
 
 export const Work = () => {
@@ -24,7 +24,7 @@ export const Work = () => {
                             <a href="https://project-3-frontend-uxxk.onrender.com/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/raeoxfordhebron/project-3-frontend.git">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -40,7 +40,7 @@ export const Work = () => {
                             <a href="https://dashing-ganache-d6c71e.netlify.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/samwhitford11/Sched-Frontend.git">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -56,7 +56,7 @@ export const Work = () => {
                             <a href="https://project-one-whitford.vercel.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/samwhitford11/Project-1.git">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
