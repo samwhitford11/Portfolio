@@ -71,10 +71,3 @@ export const Work = () => {
 
 export default Work
 
-
-{/* // Events Hooks link https://project-one-whitford.vercel.app/
-
-// Road Trip Buddy Link https://project-3-frontend-uxxk.onrender.com/ 
-
-// SChed Link https://dashing-ganache-d6c71e.netlify.app/
-*/}
